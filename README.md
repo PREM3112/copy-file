@@ -43,10 +43,11 @@ with open("data.txt","r") as f2:
   print(data)
 ```
 ### OUTPUT:
-![1](/1.png)
-![2](/2.png)
-![3](/3.png)
-![4](/4.png)
+![1](https://github.com/PREM3112/copy-file/assets/145449383/78bf996b-4dae-4c93-b056-93b7d490b753)
+![2](https://github.com/PREM3112/copy-file/assets/145449383/7dd87c17-06d3-4540-8aa6-03147d62fef8)
+![3](https://github.com/PREM3112/copy-file/assets/145449383/74d949bd-aef3-4be4-a8b0-7b7bc03243d6)
+![4](https://github.com/PREM3112/copy-file/assets/145449383/f8b29c41-207d-43a2-ba99-f8d4c200174e)
+
 
 
 ## RESULT:
